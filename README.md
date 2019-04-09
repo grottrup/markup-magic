@@ -2,4 +2,4 @@
 
 Link to a file: 
 
-[:This is my link name :)](hello.sh)
+[This is my link name :)](hello.sh)
