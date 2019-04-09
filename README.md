@@ -1,3 +1,5 @@
 # markup-magic
 
-@[:code_block](hello.sh)
+Link to a file: 
+
+[:code_block](hello.sh)
