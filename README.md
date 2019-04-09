@@ -2,4 +2,4 @@
 
 Link to a file: 
 
-[:code_block](hello.sh)
+[:This is my link name :)](hello.sh)
